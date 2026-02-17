@@ -24,3 +24,17 @@ This repository will contain:
 - RAG projects
 - Agentic AI systems
 - Deployment demos
+
+## Weekly Progress Tracker
+
+### Week 1
+- Git & GitHub Basics
+- Python Fundamentals (Upcoming)
+
+### Week 2
+- (To be updated)
+
+---
+
+## Long-Term Vision
+To build production-grade AI systems and launch an AI-powered RecruitPro platform.
